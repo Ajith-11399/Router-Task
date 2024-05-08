@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  font-family: "Exo 2", sans-serif !important;
+}
+
+.card{
+  border-radius: 15px !important;
+}
+
+.image{
+  width: 100% !important;
+  height: 230px !important;
+  border-radius: 10px !important;
+}
+
+.card-body{
+  height: 270px !important;
+}
+
+.sourceButton{
+  margin-top: -10px !important;
+}
+
+.nav-pills{
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+.box{
+  position: sticky !important;
+
+  box-shadow: 1px 1px 20px 1px !important;
+}
+
+.imgBox{
+  width: 100% !important;
+  height: 100% !important;
+}
