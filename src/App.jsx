@@ -16,7 +16,7 @@ const App = () => {
   const dataApi = [
     {
       id : "fsd",
-      image : "./src/assets/Images/img-1.jpg",
+      image : "./assets/Images/img-1.jpg",
       title : "Best Full-Stack Development Project Ideas in 2024",
       author : "Isha Sharma",
       date : "Mar 25 2024",
@@ -24,7 +24,7 @@ const App = () => {
     },
     {
       id : "fsd",
-      image : "./src/assets/Images/img-2.jpg",
+      image : "./assets/Images/img-2.jpg",
       title : "6 Essential Prerequisites For Learning ReactJS",
       author : "Ramkumar",
       date : "Mar 25 2024",
@@ -32,7 +32,7 @@ const App = () => {
     },
     {
       id : "fsd",
-      image : "./src/assets/Images/img-3.webp",
+      image : "./assets/Images/img-3.webp",
       title : "Hot Topics That You Need To Know In Full Stack Developer Syllabus | 2024 ",
       author : "Archana",
       date : "Mar 26 2024",
@@ -40,7 +40,7 @@ const App = () => {
     },
     {
       id : "fsd",
-      image : "./src/assets/Images/img-4.jpg",
+      image : "./assets/Images/img-4.jpg",
       title : "MEAN vs MERN: Career Growth & Salary",
       author : "Admin",
       date : "Apr 12 2024",
@@ -48,7 +48,7 @@ const App = () => {
     },
     {
       id : "ds",
-      image : "./src/assets/Images/img-5.webp",
+      image : "./assets/Images/img-5.webp",
       title : "Roles and Responsibilities of a Data Scientist",
       author : "Jaishree Tomar",
       date : "Apr 16 2024",
@@ -56,7 +56,7 @@ const App = () => {
     },
     {
       id : "ds",
-      image : "./src/assets/Images/img-6.webp",
+      image : "./assets/Images/img-6.webp",
       title : "Can A Commerce Student Do Data Science?",
       author : "Saakshi Priyadarshini",
       date : "Apr 16 2024",
@@ -64,7 +64,7 @@ const App = () => {
     },
     {
       id : "ds",
-      image : "./src/assets/Images/img-7.webp",
+      image : "./assets/Images/img-7.webp",
       title : "How Long Would It Take to Learn Data Science?",
       author : "Meghana D",
       date : "Apr 16 2024",
@@ -72,7 +72,7 @@ const App = () => {
     },
     {
       id : "ds",
-      image : "./src/assets/Images/img-8.webp",
+      image : "./assets/Images/img-8.webp",
       title : "12 Real-World Data Science Examples: Power Of Data Science",
       author : "Lukesh S",
       date : "Mar 25 2024",
@@ -80,7 +80,7 @@ const App = () => {
     },
     {
       id : "ds",
-      image : "./src/assets/Images/img-9.webp",
+      image : "./assets/Images/img-9.webp",
       title : "Data Science vs Data Analytics | Best Career Choice in 2024",
       author : "Lahari chandana",
       date : "Apr 16 2024",
@@ -88,7 +88,7 @@ const App = () => {
     },
     {
       id : "cs",
-      image : "./src/assets/Images/img-10.webp",
+      image : "./assets/Images/img-10.webp",
       title : "8 Different Types of Cybersecurity and Threats Involved",
       author : "Tushar Vinocha",
       date : "Sep 08 2023",
@@ -96,7 +96,7 @@ const App = () => {
     },
     {
       id : "cs",
-      image : "./src/assets/Images/img-11.webp",
+      image : "./assets/Images/img-11.webp",
       title : "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
       author : "Jaishree Tomar",
       date : "Mar 26 2024",
@@ -104,7 +104,7 @@ const App = () => {
     },
     {
       id : "cs",
-      image : "./src/assets/Images/img-12.png",
+      image : "./assets/Images/img-12.png",
       title : "How Is Cyber Security Important To Our Lives?",
       author : "GUVI GEEK",
       date : "Apr 29 2024",
@@ -112,7 +112,7 @@ const App = () => {
     },
     {
       id : "cs",
-      image : "./src/assets/Images/img-13.webp",
+      image : "./assets/Images/img-13.webp",
       title : "The Ultimate Cybersecurity Roadmap for Beginners",
       author : "Shrinithi Sankar",
       date : "Mar 23 2024",
@@ -120,7 +120,7 @@ const App = () => {
     },
     {
       id : "career",
-      image : "./src/assets/Images/img-14.webp",
+      image : "./assets/Images/img-14.webp",
       title : "Career Planning-A Guide To Your Bright Future In 2024",
       author : "Ankita Pathak",
       date : "Dec 27 2023",
@@ -128,7 +128,7 @@ const App = () => {
     },
     {
       id : "career",
-      image : "./src/assets/Images/img-15.webp",
+      image : "./assets/Images/img-15.webp",
       title : "How To Forge A Career Path In Your Organization",
       author : "Caroline Castrillon",
       date : "May 21 2023",
@@ -136,7 +136,7 @@ const App = () => {
     },
     {
       id : "career",
-      image : "./src/assets/Images/img-16.jpeg",
+      image : "./assets/Images/img-16.jpeg",
       title : "How to choose a career? 10 essential questions you must ask yourself",
       author : "EHL insights",
       date : "Mar 01 2024",
