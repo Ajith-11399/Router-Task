@@ -10,13 +10,17 @@ const Card = ({ element, index }) => {
             <img className="image" src={element.image} alt="" />
           </div>
           <div className="card-body">
-            <h3>{element.title}</h3>
+            <Link to={element.source}  className="text-decoration-none text-dark" target="_new">
+              <h3>{element.title}</h3>
+            </Link>
             <h6 className="mt-3">Author Name : {element.author}</h6>
-            <h6 className="mt-3">Date : {element.date}</h6>  
+            <h6 className="mt-3">Date : {element.date}</h6>
           </div>
           <div className="text-center mb-4 sourceButton">
-            <Link to={element.source} className="text-center" target='_new'>
-              <button className="btn btn-success text-center">View this Blog</button>
+            <Link to={element.source} className="text-center" target="_new">
+              {/* <button className="btn btn-success text-center">
+                View this Blog
+              </button> */}
             </Link>
           </div>
         </div>
